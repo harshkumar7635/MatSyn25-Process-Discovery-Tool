@@ -1,0 +1,38 @@
+assigned_family,methods_found_str,reactants_found_str,count
+graphene,,,95
+graphene,,precursor,8
+graphene,,solvent,9
+graphene,,"solvent, precursor",1
+graphene,annealing,,2
+graphene,"annealing, cvd",precursor,1
+graphene,cvd,,12
+graphene,cvd,etchant,1
+graphene,cvd,precursor,6
+graphene,"cvd, etching",,1
+graphene,etching,,4
+graphene,hydrothermal,,16
+graphene,hydrothermal,precursor,7
+graphene,"hydrothermal, annealing",,2
+mxene,,,13
+mxene,,precursor,1
+mxene,etching,,3
+mxene,etching,solvent,1
+mxene,hydrothermal,,1
+needs manual check,,,134
+needs manual check,,precursor,10
+needs manual check,,solvent,6
+needs manual check,,"solvent, precursor",1
+needs manual check,annealing,,5
+needs manual check,annealing,precursor,1
+needs manual check,etching,,2
+needs manual check,hydrothermal,,24
+needs manual check,hydrothermal,precursor,5
+needs manual check,hydrothermal,solvent,2
+needs manual check,sol gel,precursor,1
+tmd,,,8
+tmd,,precursor,2
+tmd,,solvent,3
+tmd,,"solvent, precursor",1
+tmd,"annealing, cvd",,1
+tmd,cvd,precursor,2
+tmd,hydrothermal,,5

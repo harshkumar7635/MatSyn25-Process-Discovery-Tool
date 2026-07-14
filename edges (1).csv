@@ -1,0 +1,17 @@
+source,target,type
+needs manual check,hydrothermal,USES_METHOD
+graphene,hydrothermal,USES_METHOD
+graphene,cvd,USES_METHOD
+needs manual check,annealing,USES_METHOD
+tmd,hydrothermal,USES_METHOD
+graphene,etching,USES_METHOD
+mxene,etching,USES_METHOD
+graphene,annealing,USES_METHOD
+graphene,"hydrothermal, annealing",USES_METHOD
+tmd,cvd,USES_METHOD
+needs manual check,etching,USES_METHOD
+graphene,"annealing, cvd",USES_METHOD
+mxene,hydrothermal,USES_METHOD
+graphene,"cvd, etching",USES_METHOD
+needs manual check,sol gel,USES_METHOD
+tmd,"annealing, cvd",USES_METHOD

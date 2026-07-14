@@ -1,0 +1,17 @@
+assigned_family,methods_found_str,count
+needs manual check,hydrothermal,31
+graphene,hydrothermal,23
+graphene,cvd,19
+needs manual check,annealing,6
+tmd,hydrothermal,5
+graphene,etching,4
+mxene,etching,4
+graphene,annealing,2
+tmd,cvd,2
+needs manual check,etching,2
+graphene,"hydrothermal, annealing",2
+graphene,"cvd, etching",1
+graphene,"annealing, cvd",1
+mxene,hydrothermal,1
+tmd,"annealing, cvd",1
+needs manual check,sol gel,1

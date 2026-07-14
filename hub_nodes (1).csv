@@ -1,0 +1,13 @@
+node,degree
+graphene,7
+needs manual check,4
+hydrothermal,4
+tmd,3
+etching,3
+cvd,2
+annealing,2
+mxene,2
+"annealing, cvd",2
+"hydrothermal, annealing",1
+"cvd, etching",1
+sol gel,1

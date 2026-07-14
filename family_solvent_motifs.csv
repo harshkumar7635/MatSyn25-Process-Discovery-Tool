@@ -1,0 +1,106 @@
+assigned_family,solvent_str,count
+needs manual check,,51
+graphene,,46
+needs manual check,"solution, water",32
+graphene,"solution, water",23
+graphene,"ethanol, solution, water",18
+needs manual check,solution,18
+needs manual check,"ethanol, solution, water",13
+graphene,solution,10
+needs manual check,base,9
+needs manual check,"solution, water, acid",8
+needs manual check,water,6
+tmd,,6
+graphene,"solution, acetone, water",6
+graphene,water,6
+mxene,,5
+needs manual check,acid,5
+needs manual check,"base, solution",4
+graphene,"ethanol, solution, water, methanol",4
+graphene,"solution, water, acid",4
+graphene,base,4
+needs manual check,"ethanol, solution",4
+needs manual check,"solution, dmf",4
+tmd,"solution, water",4
+graphene,acid,4
+graphene,"ethanol, solution, water, acid",3
+graphene,"solution, dmf",3
+mxene,"solution, water",3
+needs manual check,"ethanol, water",3
+graphene,"ethanol, solution",3
+graphene,"ethanol, solution, ether, water",3
+needs manual check,"benzene, ether",2
+graphene,"toluene, solution",2
+graphene,"solution, ether, water",2
+graphene,"ethanol, solution, acetone, water",2
+needs manual check,"base, solution, ether",2
+mxene,"ethanol, solution, water",2
+mxene,solution,2
+needs manual check,"ethanol, solution, water, acid",2
+needs manual check,"ethanol, water, acid",2
+needs manual check,"base, solution, water",2
+graphene,"base, solution, acid",1
+mxene,"base, solution, water",1
+graphene,"solution, water, thf",1
+graphene,"solution, methanol, ethanol, acetone, water, acid",1
+graphene,"solution, acetone",1
+graphene,"solution, chloroform, methanol, toluene, ethanol, acetone, water",1
+graphene,"solution, acetonitrile",1
+graphene,"solution, ethanol, acetone, water, acid",1
+graphene,"solution, ether",1
+graphene,"ethanol, solution, acid",1
+graphene,"ethanol, acid, solution, thf",1
+graphene,"ethanol, acid, water, methanol",1
+graphene,"ethanol, dmf, acid",1
+graphene,"ethanol, water",1
+graphene,ether,1
+graphene,"ether, water",1
+graphene,"nmp, solution, ether, water, acid",1
+graphene,"ethanol, acetone, methanol",1
+graphene,"base, solution, acetone, water, acid",1
+graphene,"acetonitrile, solution, ethanol, acetone, water",1
+graphene,"acetonitrile, dmf, dimethylformamide, solution, acetone, water",1
+graphene,"base, acid",1
+graphene,"chloroform, solution",1
+mxene,"solution, acid",1
+mxene,"solution, nmp",1
+needs manual check,"base, benzene",1
+needs manual check,"base, acid",1
+needs manual check,acetone,1
+needs manual check,acetonitrile,1
+mxene,"solution, water, acid",1
+mxene,"solution, acetone, water",1
+mxene,"ethanol, water",1
+mxene,"dmso, solution, water",1
+needs manual check,"ethanol, solution, water, methanol",1
+needs manual check,"ethanol, solution, acetone, water",1
+needs manual check,"ethanol, solution, ether, water",1
+needs manual check,"ethanol, solution, methanol",1
+needs manual check,"benzene, solution, acetonitrile",1
+needs manual check,dmf,1
+needs manual check,"ethanol, acetone, water",1
+needs manual check,"ethanol, dmf, solution",1
+needs manual check,"solution, acid, water, acetonitrile",1
+needs manual check,"solution, acetone, water, acid",1
+needs manual check,"solution, ether, water",1
+needs manual check,"solution, methanol, ethanol, acetone, water",1
+needs manual check,"solution, thf",1
+needs manual check,"solution, acetone, acid",1
+needs manual check,"ether, water",1
+needs manual check,ether,1
+needs manual check,"toluene, solution, water",1
+needs manual check,"toluene, solution, acetone",1
+needs manual check,"solution, nmp",1
+needs manual check,"water, acid",1
+tmd,"base, dmf, nmp",1
+tmd,"ethanol, solution",1
+tmd,"ethanol, solution, acetone, water",1
+tmd,base,1
+tmd,"ethanol, solution, water, acid",1
+tmd,"ethanol, water",1
+tmd,"solution, dimethylformamide, nmp, ethanol, water",1
+tmd,"solution, dichloromethane, acetonitrile",1
+tmd,"solution, dmf",1
+tmd,"solution, water, acid",1
+tmd,water,1
+tmd,"water, acid",1

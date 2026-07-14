@@ -1,0 +1,14 @@
+node,community_id
+needs manual check,0
+annealing,0
+unknown_node,0
+sol gel,0
+hydrothermal,1
+etching,1
+mxene,1
+tmd,2
+"annealing, cvd",2
+cvd,2
+graphene,3
+"hydrothermal, annealing",3
+"cvd, etching",3

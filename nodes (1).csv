@@ -1,0 +1,18 @@
+node_id,node_label,node_type
+needs manual check,needs manual check,Family
+graphene,graphene,Family
+mxene,mxene,Family
+tmd,tmd,Family
+hydrothermal,hydrothermal,Method
+cvd,cvd,Method
+annealing,annealing,Method
+etching,etching,Method
+"hydrothermal, annealing","hydrothermal, annealing",Method
+"annealing, cvd","annealing, cvd",Method
+"cvd, etching","cvd, etching",Method
+sol gel,sol gel,Method
+sonicator,sonicator,Equipment
+autoclave,autoclave,Equipment
+oven,oven,Equipment
+furnace,furnace,Equipment
+reactor,reactor,Equipment
